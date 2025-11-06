@@ -1,6 +1,6 @@
 import random
 import string
-
+from string import digits
 
 # Запрашиваем параметры у пользователя
 length = int(input("Введите длину пароля (от 6 до 20): "))
